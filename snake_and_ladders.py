@@ -20,7 +20,7 @@ while p1_pos<100 and p2_pos<100:
 
    #Snake
  elif p1_pos==27: p1_pos=5; print("Snake! Down to 5")
- elif p1_pos==54: p1_pos=5; print("Snake! Down to 31")
+ elif p1_pos==54: p1_pos=31; print("Snake! Down to 31")
 
 print(f"Player 1 Position:{p1_pos}")
 if p1_pos==100:
@@ -41,7 +41,7 @@ if p2_pos+roll1<=100:
 
    #Snake
 elif p2_pos==27: p2_pos=5; print("Snake! Down to 5")
-elif p2_pos==54: p2_pos=5; print("Snake! Down to 31")
+elif p2_pos==54: p2_pos=31; print("Snake! Down to 31")
 
 print(f"Player 2 Position:{p1_pos}")
 if p2_pos==100:
@@ -51,3 +51,4 @@ if p2_pos==100:
 
 
 start_game()
+
