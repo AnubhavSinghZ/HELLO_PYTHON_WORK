@@ -1,15 +1,11 @@
-# python_number_guess_game
+#This is my Python Practice Work
 
-A simple python game built to practice loop logic and conditional statements.
+# Contiton Mention
+if
+else
+elseif
+elif
 
-# Features
+# Simple and Easy
 
---Two Player Game.
---Real time feedback.
---Attempt counter.
-
-# Concepts Used
-
---while loop - to keep the game running until the correct guess.
---conditional logic - if-elif-else for number comparison.
---user input - handling flaot inputs for precision.
+Easy and simple way 
