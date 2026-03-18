@@ -1,12 +1,12 @@
-#This is my Python Practice Work
+In this Repository I uplooad my practice in Python
 
-# Conditon Mention
-if
-else
-elseif
-elif
+# PYTHON WORK
+in this there are various type of code 
 
-# Simple and Easy
+#  MOST OF THE PROGRAM IN THIS IS CONDITIONAL STATEMENT
 
-Easy and simple way 
-I have understand the concept of statements in python.
+If
+ELse
+Elif
+Elseif
+and loops
